@@ -20,4 +20,7 @@ public class peacock extends animal {
         System.out.println("ku ku ku ku");
     }
     
+    public int getAge(){
+        return age;
+    }
 }
